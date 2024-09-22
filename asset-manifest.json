@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/odys-github-page-blog/static/css/main.e6c13ad2.css",
+    "main.js": "/odys-github-page-blog/static/js/main.2e4fd777.js",
+    "static/js/936.09842297.chunk.js": "/odys-github-page-blog/static/js/936.09842297.chunk.js",
+    "static/js/121.70b496f0.chunk.js": "/odys-github-page-blog/static/js/121.70b496f0.chunk.js",
+    "static/js/818.7e3f04b3.chunk.js": "/odys-github-page-blog/static/js/818.7e3f04b3.chunk.js",
+    "index.html": "/odys-github-page-blog/index.html",
+    "main.e6c13ad2.css.map": "/odys-github-page-blog/static/css/main.e6c13ad2.css.map",
+    "main.2e4fd777.js.map": "/odys-github-page-blog/static/js/main.2e4fd777.js.map",
+    "936.09842297.chunk.js.map": "/odys-github-page-blog/static/js/936.09842297.chunk.js.map",
+    "121.70b496f0.chunk.js.map": "/odys-github-page-blog/static/js/121.70b496f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2e4fd777.js"
+  ]
+}
